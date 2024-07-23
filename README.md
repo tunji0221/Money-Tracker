@@ -1,0 +1,1 @@
+I developed a Money Tracker application using HTML, JavaScript, and CSS as part of a personal project to enhance my programming and financial management skills. This application allows users to efficiently track their income and expenses, providing a clear overview of their financial health.
